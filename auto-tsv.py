@@ -31,7 +31,7 @@ graphql_query = """
 # Prepare the request headers
 headers = {
     "Content-Type": "application/json",
-    "Api-Key": "NRAK-DV2VIAZ2VSD9KLYOY5YQO7PVDOP"  # Replace with your New Relic API key
+    "Api-Key": "USER_API_KEY_HERE"  # Replace with your New Relic API key
 }
 
 # Make the HTTP POST request to the Nerdgraph API
